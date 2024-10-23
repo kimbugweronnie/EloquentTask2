@@ -1,3 +1,2 @@
 
-Refactory of code
-Testing processSpreadsheet
+Refactoring  of code & Testing processSpreadsheet
